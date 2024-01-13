@@ -20,7 +20,7 @@ Craftable Mob Battle is a fast-paced customizable mob battle arena. Craft your b
 
 ## Extreme Snowball Fight
 
-![Craftable Mob Battle](./images/content/esf/ESF_MarketingKeyArt.jpg)
+![Extreme Snowball Fight](./images/content/esf/ESF_MarketingKeyArt.jpg)
 [View on the Marketplace](https://www.minecraft.net/en-us/marketplace/pdp?id=793e0379-de6b-4dcb-b7eb-d5ea3bc4ab93){:target="_blank"}
 
 Time for the ultimate snowball fight with snowball weapons. Jump into this extreme snowball battle royal and show your friends what you are made of. Fight against each other and our special snow NPC in 3 different game modes.
