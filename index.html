@@ -1,16 +1,18 @@
+---
+layout: default
+---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World Example</title>
-</head>
-<body>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-    <h1>Hello World</h1>
-    
-    <p>This is a simple example of an HTML document with a heading and a paragraph.</p>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-</body>
-</html>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
