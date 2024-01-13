@@ -31,4 +31,5 @@ I am now confident in pretty much all areas of resource and behaviour packs in r
 ## Contact
 
 **Discord**: tomhmagic
+
 **Discord Server**: [discord.gg/7eUecQ3sBT](https://discord.gg/7eUecQ3sBT){:target="_blank"}
