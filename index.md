@@ -2,13 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Projects
 
@@ -17,9 +10,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Craftable Mob Battle
 
 ![Craftable Mob Battle](./images/content/cmb/ESF_MarketingKeyArt.jpg)
-[View on the Marketplace](https://www.minecraft.net/en-us/marketplace/pdp?id=929096a3-e531-46e5-bac9-6d13bd7efdba).
+[View on the Marketplace](https://www.minecraft.net/en-us/marketplace/pdp?id=929096a3-e531-46e5-bac9-6d13bd7efdba){:target="_blank"}
 
 Craftable Mob Battle is a fast-paced customizable mob battle arena. Craft your best mob for battle with hundreds of possible combinations. Battle against your friends or let the bots decide your fate. Endless hours of gameplay with side missions to earn coins for fun cosmetics.
 
-# My involvement in the project
-
+[Read More](./project_cmb.html)
